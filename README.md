@@ -1,4 +1,4 @@
 # Hand-ons 
-Docker
-Continuous Integration Travis CI 
-Deployment with AWS
+Docker \
+Continuous Integration Travis CI \
+Deployment with AWS \
